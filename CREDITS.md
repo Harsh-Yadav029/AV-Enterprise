@@ -7,6 +7,7 @@ Third-party photos, fonts and libraries used by `index.html`.
 - `assets/vikas-sharma.jpg`, `assets/vikas-sharma-portrait.jpg`: Official portrait photograph of Vikas Sharma, Founder & Director, A V Enterprises.
 - `assets/hariom-saini.jpg`, `assets/hariom-saini-portrait.jpg`: Official portrait photograph of Hariom Saini, Co-Founder, A V Enterprises.
 - `assets/harsh-kumar-yadav.jpg`, `assets/harsh-kumar-yadav-portrait.jpg`: Official portrait photograph of Harsh Kumar Yadav, Chief Technology Officer (CTO), A V Enterprises.
+- `assets/anshul-sharma.svg`: Executive silhouette placeholder for Anshul Sharma, Managing Director, A V Enterprises.
 
 ## Photos (Unsplash License)
 
