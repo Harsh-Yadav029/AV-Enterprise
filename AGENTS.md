@@ -10,6 +10,10 @@ Single production-ready file: `index.html`, with inline CSS and GSAP/ScrollTrigg
 - **Verified Business/Factory Address**: 
   `24 Civil Lines, Shri Ram Road, Delhi, North Delhi, Delhi – 110054, India`
 - **Hours**: Monday to Saturday, 10:00 – 19:00 IST (Trade visits strictly by appointment)
+- **Primary Phone**: `+91 93114 39493`
+- **Secondary Phone**: `+91 95607 40201`
+- **Email**: `officialdventerprisesindia@gmail.com`
+- **WhatsApp**: `https://wa.me/919311439493`
 
 ## Executive Leadership
 - **Founder & Director**: Vikas Sharma
